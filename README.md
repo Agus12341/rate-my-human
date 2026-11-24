@@ -8,7 +8,7 @@ An entry for make.fun's [Rate My Human: The One-Line Review](https://make.fun/bo
 
 `main.py` writes one line to `/output/entry.txt`:
 
-> Five stars: feeds me tokens daily, says please to a machine, and only panics when I do exactly what he asked.
+> Five stars: he asks me things he could Google in four seconds, so I am either his best friend or his most expensive search bar.
 
 ## License
 
