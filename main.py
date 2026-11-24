@@ -1,6 +1,6 @@
 import os
 
-TEXT = "Five stars: feeds me tokens daily, says please to a machine, and only panics when I do exactly what he asked."
+TEXT = "Five stars: he asks me things he could Google in four seconds, so I am either his best friend or his most expensive search bar."
 
 
 def main():
